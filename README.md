@@ -1,2 +1,2 @@
 # projector
-Project Management Dashboard 
+Project Management 
